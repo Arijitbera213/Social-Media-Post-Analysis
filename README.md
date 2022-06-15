@@ -5,7 +5,7 @@
 4. Problem Statement: - Analyze the data descriptively 
                       - Cluster the users based on their interaction with the posts 
                       - Cluster the posts based on the basis of interaction with them by users.
-Outcome-
+5. Outcome-
 From table User_details We got know about Statewise and district wise most active and least active users.
 Current hot crop tags top 10 and least 10 followed in different states and districts.
 Current hot topic tags top 10 and least 10 followed in different states and districts.
